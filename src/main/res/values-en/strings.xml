@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tiny Notes</string>
+    <string name="label1_start_text">Tiny Notes</string>
+    <string name="toast1_second_text">There are not notes to show</string>
+    <string name="label1_verNota_text">Information about the note:</string>
+    <string name="volver_verNota_text">Back</string>
+    <string name="borrar_verNota_text">Delete</string>
+    <string name="error_verNota_text">ERROR The note cannot be showed</string>
+    <string name="toastBorrado_verNota_text">The note was deleted correctly</string>
+    <string name="toastError_verNota_text">The note cannot be deleted</string>
+    <string name="label1_crearNota_text">Write a note:</string>
+    <string name="volver_crearNota_text">Back</string>
+    <string name="crear_crearNota_text">Create</string>
+    <string name="toast1_crearNota_text">Required note</string>
+    <string name="botonBorrar_borrarNotas_text">Delete all the notes</string>
+    <string name="botonVolver_borrarNotas_text">Back</string>
+    <string name="toastBorrado_borrarNotas_text">All the notes were deleted correctly</string>
+</resources>

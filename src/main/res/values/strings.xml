@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="label1_start_text">Notitas</string>
+    <string name="toast1_second_text">No hay notas que mostrar</string>
+    <string name="label1_verNota_text">Información de la nota:</string>
+    <string name="volver_verNota_text">Volver</string>
+    <string name="borrar_verNota_text">Borrar</string>
+    <string name="error_verNota_text">ERROR No se ha podido mostrar la nota</string>
+    <string name="toastBorrado_verNota_text">Nota borrada correctamente</string>
+    <string name="toastError_verNota_text">No se ha podido borrar la nota</string>
+    <string name="label1_crearNota_text">Escribe una nota:</string>
+    <string name="volver_crearNota_text">Volver</string>
+    <string name="crear_crearNota_text">Crear</string>
+    <string name="toast1_crearNota_text">Nota obligatoria</string>
+    <string name="botonBorrar_borrarNotas_text">Borrar todas las notas</string>
+    <string name="botonVolver_borrarNotas_text">Volver</string>
+    <string name="toastBorrado_borrarNotas_text">Se han borrado todas las notas correctamente</string>
+</resources>

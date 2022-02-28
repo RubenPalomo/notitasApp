@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notits</string>
+    <string name="label1_start_text">Notits</string>
+    <string name="toast1_second_text">No hay nots que most</string>
+    <string name="label1_verNota_text">Informaciónet de la not:</string>
+    <string name="volver_verNota_text">Vol</string>
+    <string name="borrar_verNota_text">Borraret</string>
+    <string name="error_verNota_text">ERROR No se ha podid most la not</string>
+    <string name="toastBorrado_verNota_text">Not borrad correctament</string>
+    <string name="toastError_verNota_text">No se ha podid borraret la not</string>
+    <string name="label1_crearNota_text">Escrib una not:</string>
+    <string name="volver_crearNota_text">Vol</string>
+    <string name="crear_crearNota_text">Crearet</string>
+    <string name="toast1_crearNota_text">Not obligatoret</string>
+    <string name="botonBorrar_borrarNotas_text">Borraret tods las nots</string>
+    <string name="botonVolver_borrarNotas_text">Vol</string>
+    <string name="toastBorrado_borrarNotas_text">Se han borrad tods las nots correctament</string>
+</resources>
